@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 11 23:20:34 2015
 
-@author: Teal
+@author: sqrtl
 """
 
 # Requires glob, math as mth, numpy as np:
