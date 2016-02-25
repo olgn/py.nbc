@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #This file contains the functions used by bownb.py to perform binary and 
-#trinary naive-bayes classification. The code was written by Teal
-#Hobson-Lowther. 
+#trinary naive-bayes classification.
 
 import glob
 import numpy as np 
