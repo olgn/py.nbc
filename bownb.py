@@ -4,7 +4,7 @@
 #then performing trinary naive-bayes classification on six groups of three
 #document classes. The functions found herein are contained in
 #bownb_functions.py, which requires packages glob, numpy, and math.
-#This code was written by Teal Hobson-Lowther.
+#This code was written by sqrtl.
 import bownb_functions as pp
 
 #List of Topics:
